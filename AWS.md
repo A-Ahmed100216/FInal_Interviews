@@ -60,7 +60,7 @@ Cloud
 * Provide a target in your vpc route tables for internet traffic
 * perform network address translation for instances that were assigned public ip addresses.
 
-# Security Grousp
+# Security Groups
 * Act at the instance level
 * Act as virtual firewalls that control inbound and outbound traffic to and form your instance.
 * Allow only rules
@@ -78,7 +78,7 @@ Cloud
 
 ## Amazon EC2
 * Elastic cloud compute
-* provides virtual amchines in the cloud, giving you full control over your OS
+* provides virtual machines in the cloud, giving you full control over your OS
 ### What is an Amazon Machine Image
 * Template used to build a virtual machine
 * Snapshot of a machine and it's data
